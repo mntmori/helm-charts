@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   test-version:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-10-28T21:10:22.203224+02:00"
+    appVersion: 1.17.0
+    created: "2021-10-28T21:21:24.186568+02:00"
     description: A Helm chart for Kubernetes
-    digest: 6a7e76f2cff7cc5a265e864b111b5412bf8d7ff8829850f6fa8b10d6e84a88c9
+    digest: 52651b9f5d9673e3e7358316c42a71e081759747b12eeb9085fd27c048ebddbb
     name: test-version
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-28T21:10:22.202666+02:00"
+    created: "2021-10-28T21:21:24.18618+02:00"
     description: A Helm chart for Kubernetes
     digest: f8d25c55c9fba514d388ffc1e341395d9ae9fac466efa3b7996abaa49545b00c
     name: test-version
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://mntmori.github.io/helm-charts/charts/test-version-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-28T21:10:22.201962+02:00"
+generated: "2021-10-28T21:21:24.185654+02:00"

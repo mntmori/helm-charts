@@ -14,6 +14,10 @@ wget https://mntmori.github.io/helm-charts/charts/index.yaml
 
 helm repo index --merge index.yaml --url https://mntmori.github.io/helm-charts/charts/ ./
 
-4. git add . 
-5. git commit -m 'added chart'
-6. git push
+4. 
+
+git add . 
+git commit -m 'added chart'
+git push
+
+helm search repo -l

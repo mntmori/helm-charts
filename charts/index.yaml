@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2021-10-28T18:32:33.083608+02:00"
+entries:
+  test-version:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-28T21:04:24.597386+02:00"
+    description: A Helm chart for Kubernetes
+    digest: f8d25c55c9fba514d388ffc1e341395d9ae9fac466efa3b7996abaa49545b00c
+    name: test-version
+    type: application
+    urls:
+    - https://mntmori.github.io/helm-charts/charts/test-version-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-28T21:04:24.596752+02:00"
